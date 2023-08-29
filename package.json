@@ -1,0 +1,17 @@
+{
+  "name": "finflow",
+  "version": "1.0.0",
+  "description": "O projeto **FinFlow** é uma aplicação de carteira de controle financeiro que utiliza a stack MERN (MongoDB, Express, React e Node.js). Ele tem o propósito de ajudar os usuários a gerenciar seu fluxo de caixa pessoal, permitindo o registro de transações financeiras e oferecendo autenticação de usuários para manter os dados seguros.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "laissonbruno",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
