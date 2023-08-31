@@ -1,0 +1,5 @@
+adicionar essas informações a parte do backend no readme.
+mongoose
+nodemon -D
+dotenv
+criptografia com bcrypt
