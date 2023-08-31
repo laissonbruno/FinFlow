@@ -11,8 +11,12 @@ O projeto utiliza uma variedade de tecnologias tanto no backend quanto no fronte
 - **Node.js:** Plataforma de execução de código JavaScript do lado do servidor.
 - **Express:** Framework web para construir APIs e manipular requisições HTTP de forma simplificada.
 - **MongoDB:** Banco de dados NoSQL usado para armazenar os dados do aplicativo.
+- **Mongoose:** ODM (Object Data Modeling) para Node.js e MongoDB, simplificando a interação com o banco de dados.
 - **JWT (JSON Web Tokens):** Método para autenticação e criação de tokens de acesso seguros.
 - **Joi:** Biblioteca para validação de dados e definição de schemas no backend.
+- **bcrypt:** Biblioteca para criptografia de senhas, garantindo a segurança das credenciais dos usuários.
+- **dotenv:** Carrega variáveis de ambiente a partir de um arquivo `.env`.
+
 
 ### Frontend
 
