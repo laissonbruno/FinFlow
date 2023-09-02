@@ -18,15 +18,6 @@ O projeto utiliza uma variedade de tecnologias tanto no backend quanto no fronte
 - **dotenv:** Carrega variáveis de ambiente a partir de um arquivo `.env`.
 
 
-### Frontend
-
-- **ReactJS:** Biblioteca JavaScript para construção de interfaces de usuário interativas.
-- **Vite:** Ferramenta de construção rápida para aplicações web modernas em React.
-- **Zod:** Biblioteca de validação de schemas utilizada para garantir a integridade dos dados no frontend.
-- **Axios:** Cliente HTTP baseado em promessas utilizado para fazer requisições ao backend.
-- **Cookies:** Para gerenciamento de cookies e persistência de informações.
-- **Formik:** Biblioteca para lidar com formulários de maneira eficiente.
-- **Tailwind CSS:** Framework de CSS utilizado para estilização e design responsivo.
 
 ## Funcionalidades Principais
 
@@ -35,5 +26,5 @@ O aplicativo **FinFlow** oferece diversas funcionalidades para auxiliar os usuá
 - **Autenticação de Usuários:** Os usuários podem criar contas seguras e fazer login usando autenticação baseada em JWT.
 - **Registro de Transações:** Os usuários podem adicionar suas transações financeiras.
 - **Validação de Dados:** Tanto no backend quanto no frontend, as informações são validadas para garantir integridade e segurança.
-- **Layout Responsivo:** Utilizando o Tailwind CSS, o aplicativo é responsivo, adaptando-se a diferentes tamanhos de tela.
+
 
